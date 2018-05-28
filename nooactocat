@@ -10,6 +10,7 @@
      <div class="col-sm-12">
       <h1>Hello World, my name is Megan.</h1>
       <p>This is my first web page.</p>
+      <a href="/">
      </div>
     </div>
   </div>
